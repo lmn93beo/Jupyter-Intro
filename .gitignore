@@ -102,3 +102,6 @@ ENV/
 
 # Hello
 ~
+
+# Data files
+.csv
