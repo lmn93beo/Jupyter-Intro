@@ -101,7 +101,7 @@ ENV/
 .mypy_cache/
 
 # Hello
-~
+*~
 
 # Data files
 .csv
